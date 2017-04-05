@@ -7,12 +7,3 @@ reference_python-3tw-debug-dojo
     |-- something.txt
     `-- third
         `-- idontknow.txt
-
-reference_python-3tw-debug-dojo
-|-- expected_outcome.txt
-|-- first
-|   `-- example.csv
-`-- second
-    |-- something.txt
-    `-- third
-        `-- idontknow.txt

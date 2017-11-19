@@ -60,6 +60,7 @@ public class TinkerTailor {
         } catch (ArrayIndexOutOfBoundsException e) {        // Handle negative and non-existent arg.
             System.out.println("The length of the list and the counter must be bigger then zero!");
         } catch (NumberFormatException e) {                 // Handle negative and float arg!");
+            System.out.println("The length of the list and the counter must be an integer!");
         }
     }
 }
